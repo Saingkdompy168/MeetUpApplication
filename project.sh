@@ -1,1 +1,1 @@
-echo 'This is project MeetUpApplication'
+echo 'This is new project MeetUpApplication'
